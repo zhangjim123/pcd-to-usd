@@ -1,0 +1,5 @@
+usd-core
+open3d
+numpy
+tqdm
+argparse
