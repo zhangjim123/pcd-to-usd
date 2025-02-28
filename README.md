@@ -4,6 +4,7 @@ file and load it to isaac-sim monitor. The running of the code is easy
 ```bash
 git clone https://github.com/zhangjim123/pcd-to-usd.git
 conda create -n change python=3.8
+conda activate change
 pip install -r requirements.txt
 ```
 To change a set of pcd file into a single usd file, use
