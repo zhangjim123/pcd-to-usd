@@ -19,6 +19,7 @@ To activate the monitor, use
 ```bash
 cd ~/isaac-sim-4.5.0
 # This can be changed into your own isaac sim path
-./python.sh <load_file-path>
+./python.sh <load_file-path> -p <usd-file-path>
 # load_file-path is the absolute path of load_file.py
+# usd-file-path is the absolute path of the usd file
 ```
